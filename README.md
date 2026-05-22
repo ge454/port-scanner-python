@@ -21,4 +21,4 @@ Uma ferramenta que faz a varredura de portas desenvolvida em phyton. Esse projet
 
 1. Faça o clone deste repositório:
    ```bash
-   git clone [https://github.com/SEU_USUARIO/NOME_DO_REPOSITORIO.git](https://github.com/SEU_USUARIO/NOME_DO_REPOSITORIO.git)
+   git clone [https://github.com/ge454/port-scanner-python] https://github.com/ge454/port-scanner-python
